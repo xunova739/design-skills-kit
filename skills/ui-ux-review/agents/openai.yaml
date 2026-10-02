@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI/UX 体验审查"
+  short_description: "从真实任务审查视觉质量、用户流程、交互阻力和实现一致性"
+  default_prompt: "Use $ui-ux-review to audit this interface and return evidence-backed priorities in business language."
